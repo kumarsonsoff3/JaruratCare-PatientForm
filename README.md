@@ -4,6 +4,10 @@ AI-powered triage tool for cancer patients and their families. Built for [Jarura
 
 Uses Gemini API for generating AI powered insights to the patients or their family about how sevre the problem is, what possible and immediate actions they need to take and other useful insights for doctors too. 
 
+<img width="1920" height="1080" align="center" alt="Screenshot 2026-01-19 174141" src="https://github.com/user-attachments/assets/29afa583-7a49-473b-98b7-765cafbf3bf4" />
+
+
+
 ## Features
 
 - **Cancer-specific triage** — Tailored for oncology patients with treatment-aware urgency assessment
