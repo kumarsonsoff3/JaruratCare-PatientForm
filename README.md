@@ -1,6 +1,8 @@
 # 🎗️ Jarurat Care Support
 
-AI-powered triage tool for cancer patients and their families. Built for [Jarurat Care](https://www.jarurat.care/) NGO.
+AI-powered triage tool for cancer patients and their families. Provides instant AI-powered response to the patient or their family with immediate guidance on urgency level and other useful insights. 
+
+Built for [Jarurat Care](https://www.jarurat.care/) NGO.
 
 <img width="1920" height="1080" align="center" alt="Screenshot 2026-01-19 174141" src="https://github.com/user-attachments/assets/29afa583-7a49-473b-98b7-765cafbf3bf4" />
 
