@@ -1,6 +1,8 @@
 # 🎗️ Jarurat Care Support
 
-AI-powered triage tool for cancer patients and their families. Built for [Jarurat Care](https://www.jarurat.care/) NGO.
+AI-powered triage tool for cancer patients and their families. Built for [Jarurat Care](https://www.jarurat.care/) NGO. 
+
+Uses Gemini API for generating AI powered insights to the patients or their family about how sevre the problem is, what possible and immediate actions they need to take and other useful insights for doctors too. 
 
 ## Features
 
@@ -14,12 +16,13 @@ AI-powered triage tool for cancer patients and their families. Built for [Jarura
 ```bash
 npm install
 
-npm run dev
+npm run dev    # To run development server
 ```
 
 Open [http://localhost:3000](http://localhost:3000)
 
 ## Environment Variables
+Create a `.env.local` file in the root directory and then put your Gemini API into it. 
 
 | Variable         | Description                                                             |
 | ---------------- | ----------------------------------------------------------------------- |
@@ -27,15 +30,9 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Tech Stack
 
-- **Next.js 16** — React framework
-- **Tailwind CSS 4** — Styling
-- **Google Gemini** — AI model
-
-## Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
-
-Add `GEMINI_API_KEY` to environment variables after deployment.
+- **Next.js 16** — React framework used for SSR and optimized development. 
+- **Tailwind CSS 4** — Styling the Components. 
+- **Google Gemini** — AI model for generating the AI powered insights.
 
 ---
 
